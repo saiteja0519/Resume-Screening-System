@@ -1,0 +1,14 @@
+Name: Rahul
+Skills: Python, SQL, Machine Learning
+Experience: 2 years
+
+
+
+Name: Sneha
+Skills: Java, SQL
+Experience: 1 year
+
+Program output
+--- Resume Screening Results ---
+Candidate: Rahul | Score: 3
+Candidate: Sneha | Score: 1
